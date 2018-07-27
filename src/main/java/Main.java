@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.TimeZone;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import com.metr.service.*;
 public class Main {
@@ -17,7 +19,7 @@ public class Main {
 		
 		Parser parser = new Parser();
 		//writing broadcasts to general file
-		String allBroadcastsPage = parser.sendGet("http://cache.sport7.site/feed_ru.xml");
+		String allBroadcastsPage = parser.sendGet("https://sport7.site/feed?language=ru");
 		file.createFile("allBroadcasts.xml",allBroadcastsPage);
 	
 		//parsing general file and getting only needed translation
@@ -26,7 +28,7 @@ public class Main {
 		
 		ArrayList<String> dbAccess = new ArrayList<String>();
 		
-		String siteName = "matchttv.ru";
+		String siteName = "watchhd.online";
 		dbAccess = file.readFileByLines("databases/"+siteName);
 		MysqlDAO mysql= new MysqlDAO(dbAccess.get(0),dbAccess.get(1),dbAccess.get(2),dbAccess.get(3));
 		
@@ -163,8 +165,36 @@ public class Main {
 		
 	    List<Integer>todayIds = mysql.selectIntListByQuery(selectTodayTranslations);
 	   
-		for (int i=0;i<todayIds.size();i++){
-			mysql.insertTerm(todayIds.get(i), todaysTransTermId);
+	    StringBuilder telegramContent = new StringBuilder(); 
+		
+	    for (int i=0;i<todayIds.size();i++){
+			//insert today translations term
+	    	mysql.insertTerm(todayIds.get(i), todaysTransTermId);
+			
+			//telegram file creator
+			String currPostNameQuery = "SELECT post_name FROM wp_posts where ID ="+todayIds.get(i);
+			String currPostName = mysql.selectString(currPostNameQuery);
+			telegramContent.append(currPostName);
+			telegramContent.append(";");
+			
+			String currPostTitleQuery = "SELECT post_title FROM wp_posts where ID ="+todayIds.get(i);
+			String currPostTitle = mysql.selectString(currPostTitleQuery);
+			telegramContent.append(currPostTitle);
+			telegramContent.append(";");
+			
+		    Pattern r = Pattern.compile("([0-9]+-[0-9]+)");
+		    Matcher m = r.matcher(currPostName);
+		    String date = null; 
+		    
+		      if (m.find( )) {
+		         date = m.group(1);
+		         telegramContent.append(date);
+		         telegramContent.append(";");
+		       }
+
+			telegramContent.append("\n");
 		}
+		file.createFile("translationtable.csv", telegramContent.toString());
+	
 	}
 }

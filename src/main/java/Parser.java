@@ -54,7 +54,7 @@ public class Parser {
 	 
  
 	 
-	 ArrayList<Broadcast> generalParse(String parsefilename, String targetFilename, String ourCategories, String ourTopTeams) throws ParserConfigurationException, SAXException, IOException{
+	 ArrayList<Broadcast> generalParse(String parsefilename, String targetFilename, String ourCategories, String ourTopTeams) throws ParserConfigurationException, SAXException, IOException, InterruptedException{
 		 FileWorker fileWorker = new FileWorker();
 		 StringBuilder str = new StringBuilder("<response>"+"/");
 		 String projPath = fileWorker.getProjectPath();
@@ -114,7 +114,7 @@ public class Parser {
 	            }
 	            
 	         }
-	         
+	        
 	         for (int i = 0;i<allBroadcasts.size();i++){
 	        	 String currUrl =  allBroadcasts.get(i).getBroadcastUrls();
 	        	 	        	
@@ -131,7 +131,7 @@ public class Parser {
 	         }
 	         
 	         for (int i = 0;i<allBroadcasts.size();i++){
-	        	 System.out.println(allBroadcasts.get(i));
+	        	 
 	         }
 	 return allBroadcasts;     
 	 } 

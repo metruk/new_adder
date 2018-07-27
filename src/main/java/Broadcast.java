@@ -14,7 +14,7 @@ public class Broadcast {
     private String postContentTarget;
     private String postContentSource; 
     
-    String  targetSite = "http://www.matchttv.ru/";
+    String  targetSite = "http://www.watchhd.online/";
 
     public Broadcast(String broadcastName, String broadCastSport, String broadcastLeague, String broadcastDate,
 			String broadcastUrls, String broadCastChannel, String broadCastLanguage) {
@@ -61,8 +61,12 @@ public class Broadcast {
 		   java.util.Date timee=new java.util.Date((long)longBroadcastDate*1000);
 		
 		    // the format of your date
-		   SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd"); 
-		   String formattedDate = sdf.format(timee);
+		   SimpleDateFormat dateMonth = new SimpleDateFormat("yyyyMMdd"); 
+		   String formattedDate = dateMonth.format(timee);
+		   
+		   SimpleDateFormat hoursMinutes = new SimpleDateFormat("HH-mm"); 
+		   String formattedHours = hoursMinutes.format(timee);
+		   
 		
 		//StringBuilder finalUrl= new StringBuilder(this.broadcastDate);
 		StringBuilder finalUrl= new StringBuilder();
@@ -72,6 +76,9 @@ public class Broadcast {
 		String urlText = this.broadcastName.toLowerCase();
 		urlText = urlText.replaceAll("\\s+", "");
 		urlText = urlText.replace(".", "-");
+		urlText = urlText.replace("(", "");
+		urlText = urlText.replace(")", "");
+		
 		
 		
 		char[] english = { 'a', 'b', 'v', 'g', 'd', 'e', 'e', 'j', 'z', 'i',
@@ -90,7 +97,12 @@ public class Broadcast {
 				}
 			}
 		}
-		finalUrl.append(urlText).toString();
+		//finalUrl.append(urlText).toString();
+		//return finalUrl.toString();
+		finalUrl.append(urlText);
+		finalUrl.append("-");
+		finalUrl.append(formattedHours);
+		
 		return finalUrl.toString();
 		
 	}
@@ -116,7 +128,7 @@ public class Broadcast {
 			players.append(publishedPlayerLinks.get(i));
 			players.append("/\" target=\"blank\" ]");
 			players.append("Канал ");
-			players.append(i);
+			players.append(i+1);
 			players.append("[/button]");	
 		}
 		
@@ -160,11 +172,14 @@ public class Broadcast {
 	}
 
 	String setBroadcastName(String broadcastName) {
+		
 		StringBuilder finalHeader = new StringBuilder(broadcastName);
 		finalHeader.append(". ");
 		finalHeader.append(this.broadcastLeague);
 		finalHeader.append(". ");
-		finalHeader.append("Прямая трансляция");
+		finalHeader.append("Прямая трансляция ");
+		
+		
 		System.out.println(finalHeader.toString());
 		//return finalHeader.toString();
 		return this.broadcastName = finalHeader.toString();

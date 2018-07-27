@@ -50,8 +50,7 @@ public class FileWorker {
 	
 	List<String> readBannersFile(String filename) throws UnsupportedEncodingException{
 		
-		
-		
+	
 		String projPath = getProjectPath();
 		String filePath = projPath+"/publicator_files/banners/"+filename;
 		
@@ -91,7 +90,7 @@ public class FileWorker {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
+		System.out.println("File created");
 	}
 	
 	public static void main (String [] args){

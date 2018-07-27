@@ -104,12 +104,32 @@ public class MysqlDAO {
 					elements.add(element);
 					}
 				preparedStatement.execute();
-				System.err.println("Макс id вибрано");
 			} catch (SQLException e) {
-				System.err.println("Макс id не вбирано");
 				e.printStackTrace();
 			}
 				return elements;
+		}
+	 
+
+	 String selectString (String query) {
+			//String query="SELECT MAX(ID) FROM wp_posts ";
+		
+		 List<String> elements = new ArrayList<String>();
+		 String element = null;	
+			try {
+				PreparedStatement preparedStatement = null;
+				preparedStatement = getConnection().prepareStatement(query);
+				ResultSet set = preparedStatement.executeQuery();
+				
+				while (set.next()) {
+					element = set.getString(1);
+				}
+				
+				preparedStatement.execute();
+			} catch (SQLException e) {
+				e.printStackTrace();
+			}
+				return element;
 		}
 	 
 	 List<Integer> selectIntListByQuery(String query) {
