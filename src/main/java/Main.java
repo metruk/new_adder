@@ -91,10 +91,13 @@ public class Main {
 							publishedPlayerUrls.add(playerLink);
 							
 							//get banners
-							List<String> banners = file.readBannersFile("player_"+siteName);
-							String playerContentWithAds = banners.get(0)+playerContent+banners.get(1);
+							String backUrl = parsedBroadcasts.get(i).targetSite+postLink;
+							String backButton="<div style=\"text-align: center;\">[button color=\"blue\" size=\"big\" link=\""+backUrl+"\" target=\"blank\" ]Вернуться к списку плееров[/button]</div>";
 							
-							//insert player
+							List<String> banners = file.readBannersFile("player_"+siteName);
+							String playerContentWithAds = banners.get(0)+playerContent+backButton+banners.get(1);
+						
+							
 							mysql.insertTranslationQuery(playerContentWithAds, playerTitle, playerLink);
 							
 							String selectPlayerId = "SELECT ID FROM wp_posts where post_name ="+"'"+playerLink+"';";
@@ -112,6 +115,7 @@ public class Main {
 						//get main translation banners
 						List<String> translationBanners = file.readBannersFile("main_"+siteName);
 						
+			
 						String targetPostContent = parsedBroadcasts.get(i).setPostContentTarget(translationBanners,publishedPlayerUrls);			
 						
 						//insert target post broadcast

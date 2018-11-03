@@ -69,7 +69,7 @@ public class FileWorker {
 		
 		
 		List<String> listOfBannersAds = new ArrayList<String>();
-		StringTokenizer str = new StringTokenizer(content.toString(), "|||");
+		StringTokenizer str = new StringTokenizer(content.toString(), "№");
 		while (str.hasMoreElements()) {
 			listOfBannersAds.add(str.nextElement().toString());
 		}

@@ -1,849 +1,930 @@
 
 <response>
         <event>
-        <name>Севастова A. (Лат) - Кырстя С.</name>
-        <league>Бухарест</league>
-        <startDateTime>1532098800</startDateTime>
-        <urls>https://sport7.pw/63f11cc8dfaf5770b6a7124587503dae-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>Match Planeta (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Севастова A. (Лат) - Кырстя С.</name>
-        <league>Бухарест</league>
-        <startDateTime>1532098800</startDateTime>
-        <urls>https://sport7.pw/2d79b1a9de5bdd3097c5bf0756ed315d-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>Belarus 5 (Belarus)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Севастова A. (Лат) - Кырстя С.</name>
-        <league>Бухарест</league>
-        <startDateTime>1532098800</startDateTime>
-        <urls>https://sport7.pw/9efada53fb8257bc074d090cd257c8cc-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>BT Sport 2 (UK)</channel>
-        <language>English</language>
-    </event>
-        <event>
-        <name>Севастова A. (Лат) - Кырстя С.</name>
-        <league>Бухарест</league>
-        <startDateTime>1532098800</startDateTime>
-        <urls>https://sport7.pw/ab5e461156d6faf0ba08acbaf142bb1c-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>Digi Sport 2 (Romania)</channel>
-        <language>Romanian</language>
-    </event>
-        <event>
-        <name>Украина U19 - Англия U19</name>
-        <league>Чемпионат Европы до 19 лет</league>
-        <startDateTime>1532100600</startDateTime>
-        <urls>https://sport7.pw/f530ea01754a0147e7a9aab5d94a13c0-live.html</urls>
+        <name>Труа - Осер</name>
+        <league>Вторая лига</league>
+        <startDateTime>1538419500</startDateTime>
+        <urls>https://sport7.pw/54360615b591a5a81731b193e55cbe6d-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>Sky Sports Football (UK)</channel>
-        <language>English</language>
-    </event>
-        <event>
-        <name>Украина U19 - Англия U19</name>
-        <league>Чемпионат Европы до 19 лет</league>
-        <startDateTime>1532100600</startDateTime>
-        <urls>https://sport7.pw/8d50dd5a2eb58f018687bac626bde265-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport2 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Украина U19 - Англия U19</name>
-        <league>Чемпионат Европы до 19 лет</league>
-        <startDateTime>1532100600</startDateTime>
-        <urls>https://sport7.pw/9cdb0d8b28eb3cf7dc94c44dadea3f58-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport Klub 2 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Рублёв А. (Рос) -  Haase R. (Ned)</name>
-        <league>Умаг</league>
-        <startDateTime>1532100600</startDateTime>
-        <urls>https://sport7.pw/ca75265259f866ea5689fc6e0bd72fe8-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>Sport5 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Рублёв А. (Рос) -  Haase R. (Ned)</name>
-        <league>Умаг</league>
-        <startDateTime>1532100600</startDateTime>
-        <urls>https://sport7.pw/d70e0eeb5ca74c3c60ededa12fece047-live.html</urls>
-                <sport>Теннис</sport>
         <channel>Arena Sport 2 (Serbia)</channel>
         <language>Serbian</language>
     </event>
         <event>
-        <name>Рублёв А. (Рос) -  Haase R. (Ned)</name>
-        <league>Умаг</league>
-        <startDateTime>1532100600</startDateTime>
-        <urls>https://sport7.pw/573343a30b75465e0c9d51635d18628b-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>SuperTennis (Italy)</channel>
-        <language>Italian</language>
-    </event>
-        <event>
-        <name>Неман - Слуцк</name>
-        <league>Высшая лига</league>
-        <startDateTime>1532101200</startDateTime>
-        <urls>https://sport7.pw/1c78c942e0811bd6469d17ab189c5cc0-live.html</urls>
+        <name>Сельта - Хетафе</name>
+        <league>Примера</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/75f7d52946eb522e7437a241809ad283-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>Belarus 5 (Belarus)</channel>
+        <channel>Match Football 3 (Russia)</channel>
         <language>Russian</language>
     </event>
         <event>
-        <name>Бешикташ - Краснодар</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532102400</startDateTime>
-        <urls>https://sport7.pw/16b65e9a6a7bd1507e401f0424b17073-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport3 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Дукла Прага - Виктория Пльзень</name>
-        <league>Первая лига</league>
-        <startDateTime>1532104200</startDateTime>
-        <urls>https://sport7.pw/8a77526316f8c09e3db3b914eeec5652-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Arena Sport 3 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Израиль U20 - Словения U20</name>
-        <league>Чемпионат Европы U20</league>
-        <startDateTime>1532106000</startDateTime>
-        <urls>https://sport7.pw/92bcf29c50399000ef7c32174a6cfdd7-live.html</urls>
-                <sport>Гандбол</sport>
-        <channel>Sport Klub 3 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Lajovic D. (Srb) - Pella G. (Arg)</name>
-        <league>Умаг</league>
-        <startDateTime>1532106000</startDateTime>
-        <urls>https://sport7.pw/ac6a640a96c2a8bf7fbfbd365266fc35-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>Sport5 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Lajovic D. (Srb) - Pella G. (Arg)</name>
-        <league>Умаг</league>
-        <startDateTime>1532106000</startDateTime>
-        <urls>https://sport7.pw/2e0bc9e15332fb160dc01a7fb88ac472-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>Arena Sport 2 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Lajovic D. (Srb) - Pella G. (Arg)</name>
-        <league>Умаг</league>
-        <startDateTime>1532106000</startDateTime>
-        <urls>https://sport7.pw/9d0b56710f5ec48a0a9b3355918a4afa-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>SuperTennis (Italy)</channel>
-        <language>Italian</language>
-    </event>
-        <event>
-        <name>Турция U19 - Франция U19</name>
-        <league>Чемпионат Европы до 19 лет</league>
-        <startDateTime>1532107800</startDateTime>
-        <urls>https://sport7.pw/9dc6ca3cf96a255952525824b603c466-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sky Sports Football (UK)</channel>
-        <language>English</language>
-    </event>
-        <event>
-        <name>Турция U19 - Франция U19</name>
-        <league>Чемпионат Европы до 19 лет</league>
-        <startDateTime>1532107800</startDateTime>
-        <urls>https://sport7.pw/880f2f9e998290493f91b9b8b8520b44-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport2 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Турция U19 - Франция U19</name>
-        <league>Чемпионат Европы до 19 лет</league>
-        <startDateTime>1532107800</startDateTime>
-        <urls>https://sport7.pw/2e7b9b62190b8e21e68128b349ce9289-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport Klub 1 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>БАТЭ - Минск</name>
-        <league>Высшая лига</league>
-        <startDateTime>1532108400</startDateTime>
-        <urls>https://sport7.pw/6f809bbd669b37bea3eaed5946e3ca65-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Belarus 5 (Belarus)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Црвена Звезда - Дин. Вранье</name>
-        <league>Суперлига</league>
-        <startDateTime>1532109600</startDateTime>
-        <urls>https://sport7.pw/65f31a18935e60f2ff4439b66754dcc1-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Arena Sport 1 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>ЧФР Клуж - Ботошани</name>
-        <league>Высшая лига</league>
-        <startDateTime>1532109600</startDateTime>
-        <urls>https://sport7.pw/5473e71a381b468c446fe87205e29380-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Digi Sport 1 (Romania)</channel>
-        <language>Romanian</language>
-    </event>
-        <event>
-        <name>Сент-Луис Кардиналс - Чикаго Кабс</name>
-        <league>МЛБ</league>
-        <startDateTime>1532110500</startDateTime>
-        <urls>https://sport7.pw/0f5e25cb55878f46f556f1653e91bda9-live.html</urls>
-                <sport>Бейсбол</sport>
-        <channel>BT Sport 1 (UK)</channel>
-        <language>English</language>
-    </event>
-        <event>
-        <name>Порту - Лилль</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532113200</startDateTime>
-        <urls>https://sport7.pw/00e363f23c8c24ea254afb4066e14a46-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport1 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Djere L. (Srb)  - Чеккинато М. (Ита)</name>
-        <league>Умаг</league>
-        <startDateTime>1532115000</startDateTime>
-        <urls>https://sport7.pw/5ff9db7694c361b225b42b52c1ebda6e-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>Sport5 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Djere L. (Srb)  - Чеккинато М. (Ита)</name>
-        <league>Умаг</league>
-        <startDateTime>1532115000</startDateTime>
-        <urls>https://sport7.pw/9036ccdea91e5313c0450137c0fcd014-live.html</urls>
-                <sport>Теннис</sport>
-        <channel>Arena Sport 2 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Черногория - Испания</name>
-        <league>Чемпионат Европы</league>
-        <startDateTime>1532116800</startDateTime>
-        <urls>https://sport7.pw/30526ec1bd1b408bab37822565920e67-live.html</urls>
-                <sport>Водное поло</sport>
-        <channel>Match Igra (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>БС Лайонс - Оттава</name>
-        <league>КФЛ</league>
-        <startDateTime>1532129400</startDateTime>
-        <urls>https://sport7.pw/2db1e603fd2995138f9acb3167963447-live.html</urls>
-                <sport>Американский футбол</sport>
-        <channel>BT Sport 1 (UK)</channel>
-        <language>English</language>
-    </event>
-        <event>
-        <name>Манчестер Сити - Боруссия Д</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532134800</startDateTime>
-        <urls>https://sport7.pw/c821489345e59db8314480df1282c465-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Match TV (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Манчестер Сити - Боруссия Д</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532134800</startDateTime>
-        <urls>https://sport7.pw/a31ba56e950011ec22ae4c375b1b7d0a-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Match Football 1 (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Манчестер Сити - Боруссия Д</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532134800</startDateTime>
-        <urls>https://sport7.pw/565609eb1703882829c88b32fb39a0f2-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Football 2 (Ukraine)</channel>
-        <language>Ukrainian</language>
-    </event>
-        <event>
-        <name>Манчестер Сити - Боруссия Д</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532134800</startDateTime>
-        <urls>https://sport7.pw/89bb53927d8bb9a2ec777d561fd78817-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport2 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Манчестер Сити - Боруссия Д</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532134800</startDateTime>
-        <urls>https://sport7.pw/13f401859a7e05e541d4e309bd87bd6d-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Arena Sport 1 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Свободная практика 3 - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532167200</startDateTime>
-        <urls>https://sport7.pw/2c63447bbb93f50d45f6de50beb086ae-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>Match TV (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Свободная практика 3 - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532167200</startDateTime>
-        <urls>https://sport7.pw/7a78b01e4d454537d943d9fd568a70d6-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>Match Arena (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Свободная практика 3 - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532167200</startDateTime>
-        <urls>https://sport7.pw/1afe5c9cf02095097b29c8c54781a3c3-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>Sport5 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Свободная практика 3 - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532167200</startDateTime>
-        <urls>https://sport7.pw/71e81d32215b203c1333dfccc3b87da7-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>Sport Klub 1 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Свободная практика 3 - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532167200</startDateTime>
-        <urls>https://sport7.pw/226076178bdf39c7fb7b153c31a113a2-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>Digi Sport 1 (Romania)</channel>
-        <language>Romanian</language>
-    </event>
-        <event>
-        <name>Раунд 14 - Тур де Франс</name>
-        <league>Тур де Франс</league>
-        <startDateTime>1532170800</startDateTime>
-        <urls>https://sport7.pw/8572d01eec51a91d925715839fa0ec77-live.html</urls>
-                <sport>Велоспорт</sport>
-        <channel>Eurosport (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Шанхай СИПГ - Гуанчжоу Эвергранд</name>
-        <league>Суперлига</league>
-        <startDateTime>1532172900</startDateTime>
-        <urls>https://sport7.pw/51e9377e9b568957fd30aee593bc0b99-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sky Sports Football (UK)</channel>
-        <language>English</language>
-    </event>
-        <event>
-        <name>Шанхай СИПГ - Гуанчжоу Эвергранд</name>
-        <league>Суперлига</league>
-        <startDateTime>1532172900</startDateTime>
-        <urls>https://sport7.pw/81e8c3c859ab8f1e504635da4d557fac-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport2 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Шанхай СИПГ - Гуанчжоу Эвергранд</name>
-        <league>Суперлига</league>
-        <startDateTime>1532172900</startDateTime>
-        <urls>https://sport7.pw/6fa5a0077fb73e7070d3f06589f6a235-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport Klub 3 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Квалификация - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532178000</startDateTime>
-        <urls>https://sport7.pw/e45b00ef42a5308a32b0505acc62cff4-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>Match TV (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Квалификация - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532178000</startDateTime>
-        <urls>https://sport7.pw/8a5aa5772e7b9955fb0c81b444a6f962-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>Setanta Eurasia + (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Квалификация - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532178000</startDateTime>
-        <urls>https://sport7.pw/4f76702d210ec892fbeb7e898dceff36-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>TSN 1 (Canada)</channel>
-        <language>English</language>
-    </event>
-        <event>
-        <name>Квалификация - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532178000</startDateTime>
-        <urls>https://sport7.pw/dd64f9ff4a36333e0fd0efe5b2dede4c-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>Sport5 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Квалификация - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532178000</startDateTime>
-        <urls>https://sport7.pw/daf76c06ed9b3258b40575d4b763f400-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>Sport Klub 1 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Квалификация - Формула-1</name>
-        <league>Гран-при Германии</league>
-        <startDateTime>1532178000</startDateTime>
-        <urls>https://sport7.pw/11857c565884e5f711fd2cfe401cd3fd-live.html</urls>
-                <sport>Авто/Мото</sport>
-        <channel>Digi Sport 1 (Romania)</channel>
-        <language>Romanian</language>
-    </event>
-        <event>
-        <name>Райт Роверс - Хартс</name>
-        <league>Кубок ФА</league>
-        <startDateTime>1532181600</startDateTime>
-        <urls>https://sport7.pw/bb9d2789cfd68b7d1582fb1f2635596c-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>BT Sport 2 (UK)</channel>
-        <language>English</language>
-    </event>
-        <event>
-        <name>Бавария - ПСЖ</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532181600</startDateTime>
-        <urls>https://sport7.pw/27dfa7f0b6aba03066ff24b89ff3a2dc-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Match TV (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Бавария - ПСЖ</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532181600</startDateTime>
-        <urls>https://sport7.pw/9280753438ed35165ced6b4c525a2668-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Match Football 1 (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Бавария - ПСЖ</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532181600</startDateTime>
-        <urls>https://sport7.pw/023ca6d3281cdf59bfefab1ac40aecad-live.html</urls>
+        <name>Сельта - Хетафе</name>
+        <league>Примера</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/407997bcae48871a257d77e1e3046801-live.html</urls>
                 <sport>Футбол</sport>
         <channel>Setanta (Russia)</channel>
         <language>Russian</language>
     </event>
         <event>
-        <name>Бавария - ПСЖ</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532181600</startDateTime>
-        <urls>https://sport7.pw/5901a611c3b50126fc3cf4396b61752c-live.html</urls>
+        <name>Сельта - Хетафе</name>
+        <league>Примера</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/acb0cf2fdfd1f453620f5d47b05c1094-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>Belarus 5 (Belarus)</channel>
-        <language>Russian</language>
+        <channel>Bein Sports 3 (Turkey)</channel>
+        <language>Turkish</language>
     </event>
         <event>
-        <name>Бавария - ПСЖ</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532181600</startDateTime>
-        <urls>https://sport7.pw/18cfc7c1f4091a1dac7391884df05712-live.html</urls>
+        <name>Сельта - Хетафе</name>
+        <league>Примера</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/f57499dd2576d8bb81f7e22a36cfa7c5-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>Football 2 (Ukraine)</channel>
-        <language>Ukrainian</language>
+        <channel>Sport Klub 2 (Serbia)</channel>
+        <language>Serbian</language>
     </event>
         <event>
-        <name>Бавария - ПСЖ</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532181600</startDateTime>
-        <urls>https://sport7.pw/6a9af5482464946d83fa76c07927fb85-live.html</urls>
+        <name>Сельта - Хетафе</name>
+        <league>Примера</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/df0fb23d7d32ae5486c0fbd2e42cb80a-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>Sport2 (Portugal)</channel>
-        <language>Portuguese</language>
+        <channel>Supersport 3 (Albania)</channel>
+        <language>Albanian</language>
     </event>
         <event>
-        <name>Бавария - ПСЖ</name>
-        <league>Международный кубок чемпионов</league>
-        <startDateTime>1532181600</startDateTime>
-        <urls>https://sport7.pw/3b324683dbdc56c98b313e122d1c81e6-live.html</urls>
-                <sport>Футбол</sport>
+        <name>Будучность - Крка</name>
+        <league>НЛБ</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/c57558a4e3a43b8762ae235fb445aa3a-live.html</urls>
+                <sport>Баскетбол</sport>
         <channel>Arena Sport 1 (Serbia)</channel>
         <language>Serbian</language>
     </event>
         <event>
-        <name>Швейцария - Азербайджан</name>
-        <league>EBSL Moscow</league>
-        <startDateTime>1532182200</startDateTime>
-        <urls>https://sport7.pw/63ac088cd3928c394e65b236f6e5cf5c-live.html</urls>
-                <sport>Пляжный футбол</sport>
-        <channel>Match Nash Sport (Russia)</channel>
+        <name>Борнмут - Кристал Пэлас</name>
+        <league>Премьер-лига</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/5625d0762744c3acb846c89bbc7027a0-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match TV (Russia)</channel>
         <language>Russian</language>
     </event>
         <event>
-        <name>Швейцария - Азербайджан</name>
-        <league>EBSL Moscow</league>
-        <startDateTime>1532182200</startDateTime>
-        <urls>https://sport7.pw/87bc804e98511a778cd31b14ff1f9bc2-live.html</urls>
-                <sport>Пляжный футбол</sport>
-        <channel>Sport5 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Херманштадт - Шепши</name>
-        <league>Высшая лига</league>
-        <startDateTime>1532185200</startDateTime>
-        <urls>https://sport7.pw/8adc186029bc1cd6694d26083d37ceb7-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Digi Sport 1 (Romania)</channel>
-        <language>Romanian</language>
-    </event>
-        <event>
-        <name>Хоффенхайм - КПР</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532185200</startDateTime>
-        <urls>https://sport7.pw/8d8cf544594c711fb6c6f353b871382d-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Arena Sport 3 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Валенсия (Исп) - Галатасарай (Тур)</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532187000</startDateTime>
-        <urls>https://sport7.pw/7bce14d03eb7f6941f7e39e2fcdc8f14-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport3 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Валенсия (Исп) - Галатасарай (Тур)</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532187000</startDateTime>
-        <urls>https://sport7.pw/630202e2b935a1eb1159cd3e3639a09a-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport Klub 1 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Россия - Польша</name>
-        <league>EBSL Moscow</league>
-        <startDateTime>1532187000</startDateTime>
-        <urls>https://sport7.pw/42851c6e12856535b1e49e01ddbcb6d7-live.html</urls>
-                <sport>Пляжный футбол</sport>
-        <channel>Match Nash Sport (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Россия - Польша</name>
-        <league>EBSL Moscow</league>
-        <startDateTime>1532187000</startDateTime>
-        <urls>https://sport7.pw/4920dc0f8eadb5d474431e6c8722a755-live.html</urls>
-                <sport>Пляжный футбол</sport>
-        <channel>Sport5 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Бенфика (Пор) - Севилья</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532188800</startDateTime>
-        <urls>https://sport7.pw/ca0412c683d11c3bb8368debfb4c6a33-live.html</urls>
+        <name>Борнмут - Кристал Пэлас</name>
+        <league>Премьер-лига</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/31347b6345e65c9fbb7f8a8d7acb80bf-live.html</urls>
                 <sport>Футбол</sport>
         <channel>Match Football 1 (Russia)</channel>
         <language>Russian</language>
     </event>
         <event>
-        <name>Бенфика (Пор) - Севилья</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532188800</startDateTime>
-        <urls>https://sport7.pw/c34e3ba53c8880cfec03b36bdd889c77-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport1 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Бенфика (Пор) - Севилья</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532188800</startDateTime>
-        <urls>https://sport7.pw/7391a9a60fcf598f143664da794992d3-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Arena Sport 1 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Швейцария U19 - Испания U19</name>
-        <league>Чемпионат Европы до 19 лет</league>
-        <startDateTime>1532189700</startDateTime>
-        <urls>https://sport7.pw/6b7a06bbdd27ec776a57c1d3947af56d-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport Klub 3 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Швейцария U19 - Испания U19</name>
-        <league>Чемпионат Европы до 19 лет</league>
-        <startDateTime>1532189700</startDateTime>
-        <urls>https://sport7.pw/3d0a4c19f886cc312266d0fcc4f19d22-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport2 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Марсель (Фра) - Вильярреал</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532192400</startDateTime>
-        <urls>https://sport7.pw/bf2e6eedf4617de0bc8b804692b6777d-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport5 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Спарта Прага - Опава</name>
-        <league>Первая лига</league>
-        <startDateTime>1532192400</startDateTime>
-        <urls>https://sport7.pw/104993c337a8f4515a313a10685c27db-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Arena Sport 3 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Колумбия (Ж) U17 - Беларусь (Ж) U17</name>
-        <league>World Championship U17 Women</league>
-        <startDateTime>1532194200</startDateTime>
-        <urls>https://sport7.pw/55593867ef02bf3f59904bf256838005-live.html</urls>
-                <sport>Баскетбол</sport>
-        <channel>Belarus 5 (Belarus)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Астра - Стяуа</name>
-        <league>Высшая лига</league>
-        <startDateTime>1532196000</startDateTime>
-        <urls>https://sport7.pw/3cd021b6b66183d18b229736bd026b16-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Digi Sport 1 (Romania)</channel>
-        <language>Romanian</language>
-    </event>
-        <event>
-        <name>Усик А. (Укр) - Гассиев М. (Рос)</name>
-        <league> WBC/IBF/WBA/WBO Titles</league>
-        <startDateTime>1532196000</startDateTime>
-        <urls>https://sport7.pw/9132f0117a37d10d9b5415e8a4b74899-live.html</urls>
-                <sport>Бокс</sport>
-        <channel>Match TV (Russia)</channel>
-        <language>Russian</language>
-    </event>
-        <event>
-        <name>Усик А. (Укр) - Гассиев М. (Рос)</name>
-        <league> WBC/IBF/WBA/WBO Titles</league>
-        <startDateTime>1532196000</startDateTime>
-        <urls>https://sport7.pw/acb5a5afdf5f3193ff5a55a71f229e0d-live.html</urls>
-                <sport>Бокс</sport>
-        <channel>Inter (Ukraine)</channel>
-        <language>Ukrainian</language>
-    </event>
-        <event>
-        <name>Усик А. (Укр) - Гассиев М. (Рос)</name>
-        <league> WBC/IBF/WBA/WBO Titles</league>
-        <startDateTime>1532196000</startDateTime>
-        <urls>https://sport7.pw/565377a9673f2db91cee6da00cf16646-live.html</urls>
-                <sport>Бокс</sport>
-        <channel>Arena Sport 4 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Шахтёр Донецк - Динамо Киев</name>
-        <league>Суперкубок</league>
-        <startDateTime>1532196000</startDateTime>
-        <urls>https://sport7.pw/cc866a4a727f8436907091734de41a67-live.html</urls>
+        <name>Борнмут - Кристал Пэлас</name>
+        <league>Премьер-лига</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/a236ae8f7be838aeabd46f199b3d054f-live.html</urls>
                 <sport>Футбол</sport>
         <channel>Football 1 (Ukraine)</channel>
         <language>Ukrainian</language>
     </event>
         <event>
-        <name>Шахтёр Донецк - Динамо Киев</name>
-        <league>Суперкубок</league>
-        <startDateTime>1532196000</startDateTime>
-        <urls>https://sport7.pw/f85489cfad86f83d9a143c7c7bf5cd1b-live.html</urls>
+        <name>Борнмут - Кристал Пэлас</name>
+        <league>Премьер-лига</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/bf83af81b6c9c7dd63aaf59a110d4e8b-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>Ukraine TV (Ukraine)</channel>
-        <language>Ukrainian</language>
+        <channel>Sky Sports Main Event (UK)</channel>
+        <language>English</language>
     </event>
         <event>
-        <name>Интер (Ита) - Зенит</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532196900</startDateTime>
-        <urls>https://sport7.pw/c90aece9b8f7934842b6b8da4fa8e81e-live.html</urls>
+        <name>Борнмут - Кристал Пэлас</name>
+        <league>Премьер-лига</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/d4e8acc6a0f880bc517775d12678ba1c-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>Sport4 (Portugal)</channel>
-        <language>Portuguese</language>
+        <channel>TSN 3 (Canada)</channel>
+        <language>English</language>
     </event>
         <event>
-        <name>Интер (Ита) - Зенит</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532196900</startDateTime>
-        <urls>https://sport7.pw/a4ae65f66b2ff232ca2345c62da18308-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Arena Sport 1 (Serbia)</channel>
-        <language>Serbian</language>
-    </event>
-        <event>
-        <name>Фаренсе - Пенафиел</name>
-        <league>Кубок Лиги</league>
-        <startDateTime>1532198700</startDateTime>
-        <urls>https://sport7.pw/d524277d46ace1952da8fa20f0c6fcc5-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport1 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Лион - Фулхэм (Анг)</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532199600</startDateTime>
-        <urls>https://sport7.pw/1c1267f3ac3861435114af9fc6fc8a1b-live.html</urls>
-                <sport>Футбол</sport>
-        <channel>Sport5 (Portugal)</channel>
-        <language>Portuguese</language>
-    </event>
-        <event>
-        <name>Эвертон - Лилль</name>
-        <league>Клубные товарищеские матчи</league>
-        <startDateTime>1532199600</startDateTime>
-        <urls>https://sport7.pw/11a4ccc02c3579e7ade2628b4f3156df-live.html</urls>
+        <name>Борнмут - Кристал Пэлас</name>
+        <league>Премьер-лига</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/e76cba584ca347a1b53fac2e9529aa36-live.html</urls>
                 <sport>Футбол</sport>
         <channel>Sport2 (Portugal)</channel>
         <language>Portuguese</language>
     </event>
         <event>
-        <name>Атланта Юнайтед - ДС Юнайтед</name>
-        <league>МЛС</league>
-        <startDateTime>1532201400</startDateTime>
-        <urls>https://sport7.pw/f78700617cd4c5754ce955ef4c379720-live.html</urls>
+        <name>Борнмут - Кристал Пэлас</name>
+        <league>Премьер-лига</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/ab2164d2c1774809056e6253f6545776-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>Eurosport (Russia)</channel>
-        <language>Russian</language>
+        <channel>Sport Klub 1 (Serbia)</channel>
+        <language>Serbian</language>
     </event>
         <event>
-        <name>Атланта Юнайтед - ДС Юнайтед</name>
-        <league>МЛС</league>
-        <startDateTime>1532201400</startDateTime>
-        <urls>https://sport7.pw/f72e7166326b10368d6f7549dc169dea-live.html</urls>
+        <name>Борнмут - Кристал Пэлас</name>
+        <league>Премьер-лига</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/69144a323c18bdfe514dac381c125826-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>Sky Sports Football (UK)</channel>
-        <language>English</language>
+        <channel>Canal+ Sport (Poland)</channel>
+        <language>Polish</language>
     </event>
         <event>
-        <name>Атланта Юнайтед - ДС Юнайтед</name>
-        <league>МЛС</league>
-        <startDateTime>1532201400</startDateTime>
-        <urls>https://sport7.pw/5c125f54493177b6a7b87cd70e8019f2-live.html</urls>
+        <name>Борнмут - Кристал Пэлас</name>
+        <league>Премьер-лига</league>
+        <startDateTime>1538420400</startDateTime>
+        <urls>https://sport7.pw/87f190fb01c22a4af1fa5c8771b3e86e-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>TSN 1 (Canada)</channel>
-        <language>English</language>
+        <channel>Viasat Premium (Sweden)</channel>
+        <language>Swedish</language>
     </event>
         <event>
-        <name>Россия (Ж) - Испания (Ж)</name>
-        <league>Чемпионат Европы Женщины</league>
-        <startDateTime>1532203200</startDateTime>
-        <urls>https://sport7.pw/16049ddc898a326f16ac5ff1171f5b19-live.html</urls>
-                <sport>Водное поло</sport>
-        <channel>Match Igra (Russia)</channel>
-        <language>Russian</language>
+        <name>Авеш - Портимоненси</name>
+        <league>Примейра-лига</league>
+        <startDateTime>1538422200</startDateTime>
+        <urls>https://sport7.pw/d7b569437bd283867f56679c518a22e6-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Sport1 (Portugal)</channel>
+        <language>Portuguese</language>
     </event>
         <event>
-        <name>Фламенго - Ботафого</name>
-        <league>Чемпионат Бразилии</league>
-        <startDateTime>1532210400</startDateTime>
-        <urls>https://sport7.pw/d9b284d39cbc120b5b22c2af3aaeaa03-live.html</urls>
+        <name>Годой Крус - Дефенса и Хустисия</name>
+        <league>Примера</league>
+        <startDateTime>1538431200</startDateTime>
+        <urls>https://sport7.pw/280d7919514a3e46500fcfdb28dab200-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Sport1 (Portugal)</channel>
+        <language>Portuguese</language>
+    </event>
+        <event>
+        <name>Годой Крус - Дефенса и Хустисия</name>
+        <league>Примера</league>
+        <startDateTime>1538431200</startDateTime>
+        <urls>https://sport7.pw/0afc310a163ea68c1b2a7b72c7dcf56e-live.html</urls>
                 <sport>Футбол</sport>
         <channel>Arena Sport 1 (Serbia)</channel>
         <language>Serbian</language>
     </event>
         <event>
-        <name>Филадельфия - Лос-Анджелес</name>
-        <league>МЛС</league>
-        <startDateTime>1532214000</startDateTime>
-        <urls>https://sport7.pw/5be2ec0ca9c1b2f7e12946b9c5f0ce43-live.html</urls>
+        <name>Денвер Бронкос - Канзас-Сити Чифс</name>
+        <league>НФЛ</league>
+        <startDateTime>1538439300</startDateTime>
+        <urls>https://sport7.pw/801edbefe444f72dd46551553fbd61b4-live.html</urls>
+                <sport>Американский футбол</sport>
+        <channel>Sky Sports Main Event (UK)</channel>
+        <language>English</language>
+    </event>
+        <event>
+        <name>Денвер Бронкос - Канзас-Сити Чифс</name>
+        <league>НФЛ</league>
+        <startDateTime>1538439300</startDateTime>
+        <urls>https://sport7.pw/1c7cf76e820cb03310e891d59c1c128f-live.html</urls>
+                <sport>Американский футбол</sport>
+        <channel>TSN 3 (Canada)</channel>
+        <language>English</language>
+    </event>
+        <event>
+        <name>Денвер Бронкос - Канзас-Сити Чифс</name>
+        <league>НФЛ</league>
+        <startDateTime>1538439300</startDateTime>
+        <urls>https://sport7.pw/3eca480c8acedd588c8d85c4f50c52d6-live.html</urls>
+                <sport>Американский футбол</sport>
+        <channel>Sport Klub 2 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/ebb1fc05104518ab743dfbea6eacddc8-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>Match Arena (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/ba52595c3587d064921b90c55b1637b2-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>Belarus 5 (Belarus)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/6b07277d8ee73635dd53d1f2d7287fe4-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>BT Sport 1 (UK)</channel>
+        <language>English</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/8dda36453cfe079faea44854dec2c2c6-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>Sport Klub 1 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/be9ca8c55f7c196fc5f1aa9394741f6a-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>Sport Klub 2 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/f55ba07445853fdbacc3b90ce4eccf61-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>Digi Sport 2 (Romania)</channel>
+        <language>Romanian</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/1a1d3e07789f509957b08a22f4d4d9ca-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>SuperTennis (Italy)</channel>
+        <language>Italian</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/188fbeb0044ea8bddf5ec4d3df64c7e7-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>Sky Sports Main Event (UK)</channel>
+        <language>English</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/fd4a1ead1f3c7d68ad61a01cbc6328c3-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>Sport2 (Portugal)</channel>
+        <language>Portuguese</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/5904c65b16c3f6ea437298f141400b75-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>Supersport 4 (Albania)</channel>
+        <language>Albanian</language>
+    </event>
+        <event>
+        <name>Китай - Хард</name>
+        <league>Пекин</league>
+        <startDateTime>1538454600</startDateTime>
+        <urls>https://sport7.pw/6e0496a3443731fffccac0d3be45c3b1-live.html</urls>
+                <sport>Теннис</sport>
+        <channel>SuperTennis (Italy)</channel>
+        <language>Italian</language>
+    </event>
+        <event>
+        <name>Россия (Ж) - Азербайджан (Ж)</name>
+        <league>Кубок Мира - Женщины</league>
+        <startDateTime>1538455200</startDateTime>
+        <urls>https://sport7.pw/406b6239729f8a28e1900001c26e68cc-live.html</urls>
+                <sport>Волейбол</sport>
+        <channel>Match TV (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Россия (Ж) - Азербайджан (Ж)</name>
+        <league>Кубок Мира - Женщины</league>
+        <startDateTime>1538455200</startDateTime>
+        <urls>https://sport7.pw/fa6d8a81da861ea6448fc0933f7670f1-live.html</urls>
+                <sport>Волейбол</sport>
+        <channel>Match Igra (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Россия (Ж) - Азербайджан (Ж)</name>
+        <league>Кубок Мира - Женщины</league>
+        <startDateTime>1538455200</startDateTime>
+        <urls>https://sport7.pw/3a801ea0616d25d2663f41f77a908646-live.html</urls>
+                <sport>Волейбол</sport>
+        <channel>Sport Klub 3 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Тайфун - Алмаз</name>
+        <league>МХЛ</league>
+        <startDateTime>1538463600</startDateTime>
+        <urls>https://sport7.pw/b834aacf60ee6375d48b62783ab4c534-live.html</urls>
+                <sport>Хоккей</sport>
+        <channel>KHL (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Болгария (Ж) - Турция (Ж)</name>
+        <league>Кубок Мира - Женщины</league>
+        <startDateTime>1538463900</startDateTime>
+        <urls>https://sport7.pw/25e43af0dd135967df2cd8f3468891e2-live.html</urls>
+                <sport>Волейбол</sport>
+        <channel>Match Igra (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Болгария (Ж) - Турция (Ж)</name>
+        <league>Кубок Мира - Женщины</league>
+        <startDateTime>1538463900</startDateTime>
+        <urls>https://sport7.pw/56182f933ab6c15ac44944e7775d2c01-live.html</urls>
+                <sport>Волейбол</sport>
+        <channel>Sport Klub 3 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Болгария (Ж) - Турция (Ж)</name>
+        <league>Кубок Мира - Женщины</league>
+        <startDateTime>1538463900</startDateTime>
+        <urls>https://sport7.pw/c8ba58ec94f4224c186e6373dbb7fe17-live.html</urls>
+                <sport>Волейбол</sport>
+        <channel>Supersport 2 (Albania)</channel>
+        <language>Albanian</language>
+    </event>
+        <event>
+        <name>Амурские Тигры - Локо</name>
+        <league>МХЛ</league>
+        <startDateTime>1538470800</startDateTime>
+        <urls>https://sport7.pw/f9432825051fe2998a0c1e74778f0f2c-live.html</urls>
+                <sport>Хоккей</sport>
+        <channel>KHL HD (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>США (Ж) - Южная Корея (Ж)</name>
+        <league>Кубок Мира - Женщины</league>
+        <startDateTime>1538475300</startDateTime>
+        <urls>https://sport7.pw/6534aa8eca7c36bbbeb7e9a97d08a315-live.html</urls>
+                <sport>Волейбол</sport>
+        <channel>Match Igra (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>США (Ж) - Южная Корея (Ж)</name>
+        <league>Кубок Мира - Женщины</league>
+        <startDateTime>1538475300</startDateTime>
+        <urls>https://sport7.pw/342a3f935f6863003affaecc709b1dd5-live.html</urls>
+                <sport>Волейбол</sport>
+        <channel>Supersport 3 (Albania)</channel>
+        <language>Albanian</language>
+    </event>
+        <event>
+        <name>США (Ж) - Южная Корея (Ж)</name>
+        <league>Кубок Мира - Женщины</league>
+        <startDateTime>1538475300</startDateTime>
+        <urls>https://sport7.pw/6a1b469e542da8b116692d42d1298da4-live.html</urls>
+                <sport>Волейбол</sport>
+        <channel>Sport Klub 3 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Китай (Ж) - Канада (Ж)</name>
+        <league>Кубок Мира - Женщины</league>
+        <startDateTime>1538475300</startDateTime>
+        <urls>https://sport7.pw/fea89fe426fa8b12059cea68e131082b-live.html</urls>
+                <sport>Волейбол</sport>
+        <channel>Supersport 2 (Albania)</channel>
+        <language>Albanian</language>
+    </event>
+        <event>
+        <name>ЦСКА U19 - Реал Мадрид U19</name>
+        <league>Молодежная Лига Чемпионов</league>
+        <startDateTime>1538478000</startDateTime>
+        <urls>https://sport7.pw/1e4cb4648da31b4d15b54c849cbfb404-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match TV (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>ЦСКА U19 - Реал Мадрид U19</name>
+        <league>Молодежная Лига Чемпионов</league>
+        <startDateTime>1538478000</startDateTime>
+        <urls>https://sport7.pw/f80905724b52b9f86f8476bce08e8e21-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match Premier (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Феризай - Дреница</name>
+        <league>Суперлига</league>
+        <startDateTime>1538485200</startDateTime>
+        <urls>https://sport7.pw/c5c6f356ce1a70a549264d17ce2289a3-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Supersport 2 (Albania)</channel>
+        <language>Albanian</language>
+    </event>
+        <event>
+        <name>Манчестер Юнайтед U19 - Валенсия U19</name>
+        <league>Молодежная Лига Чемпионов</league>
+        <startDateTime>1538488800</startDateTime>
+        <urls>https://sport7.pw/dc207d0cc74a9431d8b1c67ee6f7ffcc-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match Football 2 (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Манчестер Юнайтед U19 - Валенсия U19</name>
+        <league>Молодежная Лига Чемпионов</league>
+        <startDateTime>1538488800</startDateTime>
+        <urls>https://sport7.pw/5d8e46812df9d2777f681130b264dc37-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>BT Sport 2 (UK)</channel>
+        <language>English</language>
+    </event>
+        <event>
+        <name>Манчестер Юнайтед U19 - Валенсия U19</name>
+        <league>Молодежная Лига Чемпионов</league>
+        <startDateTime>1538488800</startDateTime>
+        <urls>https://sport7.pw/345302b133446713e9e33b903a1c8662-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Arena Sport 1 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Юность Минск - Металлург-Жлобин</name>
+        <league>Экстралига</league>
+        <startDateTime>1538491200</startDateTime>
+        <urls>https://sport7.pw/2b3d72a5390151cae60e9cf845b0c4f2-live.html</urls>
+                <sport>Хоккей</sport>
+        <channel>Belarus 5 (Belarus)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Вардар - Войводина Нови Сад</name>
+        <league>СЕГА Лига</league>
+        <startDateTime>1538492400</startDateTime>
+        <urls>https://sport7.pw/d897b0d25139e63f911bbc543a2ada3b-live.html</urls>
+                <sport>Гандбол</sport>
+        <channel>Arena Sport 2 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Летувос Ритас - Уникаха</name>
+        <league>Еврокубок</league>
+        <startDateTime>1538496000</startDateTime>
+        <urls>https://sport7.pw/6d6b88d98f234d17fc142fe266ae613a-live.html</urls>
+                <sport>Баскетбол</sport>
+        <channel>Sport Klub 2 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Спартак Москва - СКА</name>
+        <league>КХЛ</league>
+        <startDateTime>1538497800</startDateTime>
+        <urls>https://sport7.pw/f907b7158c8acdd92d705e269ba71c6e-live.html</urls>
+                <sport>Хоккей</sport>
+        <channel>KHL (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Витязь Подольск - Авангард</name>
+        <league>КХЛ</league>
+        <startDateTime>1538497800</startDateTime>
+        <urls>https://sport7.pw/ae709240e0fb02096df00661bc7e98c5-live.html</urls>
+                <sport>Хоккей</sport>
+        <channel>KHL HD (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Хоффенхайм - Манчестер Сити</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/678f99aca6bfc3f15cf0cf2f66723b3c-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match TV (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Хоффенхайм - Манчестер Сити</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/49ad678f4474429d96fd3dd0ea32dd77-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match Football 2 (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Хоффенхайм - Манчестер Сити</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/23f2b0e985c0c6093e690c128fbf6c64-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Belarus 5 (Belarus)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Хоффенхайм - Манчестер Сити</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/5373283b0485aa433483d7f642ff89b0-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Football 2 (Ukraine)</channel>
+        <language>Ukrainian</language>
+    </event>
+        <event>
+        <name>Хоффенхайм - Манчестер Сити</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/0d04f6d3482578ac6c2622f8a537ec41-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>BT Sport 3 (UK)</channel>
+        <language>English</language>
+    </event>
+        <event>
+        <name>Хоффенхайм - Манчестер Сити</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/b7a2ced5e3efe89b40e90c4fe28eccbf-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Arena Sport 2 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Хоффенхайм - Манчестер Сити</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/8fff23737fee5dc9b8d36f0c7277ca58-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Digi Sport 1 (Romania)</channel>
+        <language>Romanian</language>
+    </event>
+        <event>
+        <name>Ювентус - Янг Бойз</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/554585a12b5e7b5f9a85f3401a7438e1-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match Football 1 (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Ювентус - Янг Бойз</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/705641c4b7c5c874b669eb3cf72a8380-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>BT Sport 1 (UK)</channel>
+        <language>English</language>
+    </event>
+        <event>
+        <name>Ювентус - Янг Бойз</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/eba46cfd5093e46e8615cbfe3edd6e06-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Arena Sport 1 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Ювентус - Янг Бойз</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/fd4d0ac7b7e055d8de7279301e0991fc-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Digi Sport 2 (Romania)</channel>
+        <language>Romanian</language>
+    </event>
+        <event>
+        <name>Ювентус - Янг Бойз</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/0f4d154cf59df7c6feda8d9f8586f28c-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Qazsport (Kazakhstan)</channel>
+        <language>Kazakh</language>
+    </event>
+        <event>
+        <name>Ювентус - Янг Бойз</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538499300</startDateTime>
+        <urls>https://sport7.pw/7d20e37cfb5aaa10b4c95eac674c2734-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Viasat Football (Sweden)</channel>
+        <language>Swedish</language>
+    </event>
+        <event>
+        <name>Црвена Звезда - Ратиофарм Ульм</name>
+        <league>Еврокубок</league>
+        <startDateTime>1538499600</startDateTime>
+        <urls>https://sport7.pw/57d83dc24091fcd8e1ee8c8530cc6e9e-live.html</urls>
+                <sport>Баскетбол</sport>
+        <channel>Sport Klub 1 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Железничар - Извидац</name>
+        <league>СЕГА Лига</league>
+        <startDateTime>1538499600</startDateTime>
+        <urls>https://sport7.pw/1571c8e97db05e346ecf1e46839105ad-live.html</urls>
+                <sport>Гандбол</sport>
+        <channel>Arena Sport 4 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Галатасарай - БК Андорра</name>
+        <league>Еврокубок</league>
+        <startDateTime>1538499600</startDateTime>
+        <urls>https://sport7.pw/14ecde00d7955a1060c9bdcbf87fd429-live.html</urls>
+                <sport>Баскетбол</sport>
+        <channel>Sport Klub 3 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Гдыня - Локомотив-Кубань</name>
+        <league>Еврокубок</league>
+        <startDateTime>1538503200</startDateTime>
+        <urls>https://sport7.pw/0c584bc01c744cb2758453ca9a92b7a8-live.html</urls>
+                <sport>Баскетбол</sport>
+        <channel>Match Nash Sport (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Ипсвич Таун - Мидлсбро</name>
+        <league>Чемпионшип</league>
+        <startDateTime>1538505900</startDateTime>
+        <urls>https://sport7.pw/e47d7a28fa39d95a72a16021b17adef7-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Sky Sports Main Event (UK)</channel>
+        <language>English</language>
+    </event>
+        <event>
+        <name>Ипсвич Таун - Мидлсбро</name>
+        <league>Чемпионшип</league>
+        <startDateTime>1538505900</startDateTime>
+        <urls>https://sport7.pw/9672a49f2dc144c50e397e61e6a68ce4-live.html</urls>
                 <sport>Футбол</sport>
         <channel>Sky Sports Football (UK)</channel>
         <language>English</language>
     </event>
         <event>
-        <name>Чикаго - Торонто</name>
-        <league>МЛС</league>
-        <startDateTime>1532214000</startDateTime>
-        <urls>https://sport7.pw/a08065a5b8a3bd263931c98f31f72251-live.html</urls>
+        <name>Валенсия - Вийёрбан</name>
+        <league>Еврокубок</league>
+        <startDateTime>1538505900</startDateTime>
+        <urls>https://sport7.pw/27fcc1f6626f3a36107d9ad2f4ebb155-live.html</urls>
+                <sport>Баскетбол</sport>
+        <channel>Sport Klub 2 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Симулкаст - Онлайн</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/ee026337ce6ac628f33ffe02c2f1083f-live.html</urls>
                 <sport>Футбол</sport>
-        <channel>TSN 1 (Canada)</channel>
+        <channel>Match Football 3 (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Симулкаст - Онлайн</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/cf314c51e815f8014d8f63a183e8d94a-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Belarus 5 (Belarus)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Симулкаст - Онлайн</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/12c6574d6786bf0ba5ebcb4f0e7f7a6c-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>BT Sport 1 (UK)</channel>
         <language>English</language>
     </event>
         <event>
-        <name>Хьюстон Астрос - Лос Анджелес Энджелс</name>
-        <league>МЛБ</league>
-        <startDateTime>1532214000</startDateTime>
-        <urls>https://sport7.pw/15c606187d2daa8e1c6ef0757026c8e3-live.html</urls>
-                <sport>Бейсбол</sport>
+        <name>Манчестер Юнайтед - Валенсия</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/032a45396fc0ca7672ce0db89221fa24-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match Football 1 (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Манчестер Юнайтед - Валенсия</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/15ef269fb49c85fd23b99f90f1803edb-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Football 2 (Ukraine)</channel>
+        <language>Ukrainian</language>
+    </event>
+        <event>
+        <name>Манчестер Юнайтед - Валенсия</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/8cf7b63b77193beb75c2539eccaa24f2-live.html</urls>
+                <sport>Футбол</sport>
         <channel>BT Sport 2 (UK)</channel>
         <language>English</language>
     </event>
         <event>
-        <name>Монреаль - Калгари</name>
-        <league>КФЛ</league>
-        <startDateTime>1532221200</startDateTime>
-        <urls>https://sport7.pw/76d8fcb8577686cdbf65320d471d4a2e-live.html</urls>
-                <sport>Американский футбол</sport>
+        <name>Манчестер Юнайтед - Валенсия</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/5c15540af1a1c07e959400d5d48b76c1-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Arena Sport 1 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Манчестер Юнайтед - Валенсия</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/93722432b467d75b12cb3c25f97598fd-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Digi Sport 2 (Romania)</channel>
+        <language>Romanian</language>
+    </event>
+        <event>
+        <name>Манчестер Юнайтед - Валенсия</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/256497b675723168d05c4158dd62ea73-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Viasat Premium (Sweden)</channel>
+        <language>Swedish</language>
+    </event>
+        <event>
+        <name>ЦСКА Москва - Реал Мадрид</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/1f55ddf64c6bf491da6534027ddd481c-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match TV (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>ЦСКА Москва - Реал Мадрид</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/3ba4b6fd9b434ef0d51d9a51079650ab-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match Premier (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>ЦСКА Москва - Реал Мадрид</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/fdd0c731d8447dbe9d11a619454e8cb7-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Arena Sport 3 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>ЦСКА Москва - Реал Мадрид</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/68e0b4d0a84e0e113c5eb85c58590b1e-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Digi Sport 1 (Romania)</channel>
+        <language>Romanian</language>
+    </event>
+        <event>
+        <name>ЦСКА Москва - Реал Мадрид</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/991916ed8b21b669add503d31557ebe1-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Qazsport (Kazakhstan)</channel>
+        <language>Kazakh</language>
+    </event>
+        <event>
+        <name>Бавария - Аякс</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/d790b6c64254030b7cc842f0a465cd82-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match Football 2 (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Бавария - Аякс</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/58ec07bca6456b07f5c6acd09d67b5e5-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>BT Sport ESPN (UK)</channel>
+        <language>English</language>
+    </event>
+        <event>
+        <name>Бавария - Аякс</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/de09765c7ec974a162334b9c62428076-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Arena Sport 4 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Рома - Виктория Пльзень</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/93fdc003e9c9e972a3bde59db66b9eba-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match Arena (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Рома - Виктория Пльзень</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/d9eeef42af22a643470a1d9ef9a0efa8-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Arena Sport 4 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Лион - Шахтер Донецк</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/6f1c409f0c844caedbbecbf180683a1d-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Match Igra (Russia)</channel>
+        <language>Russian</language>
+    </event>
+        <event>
+        <name>Лион - Шахтер Донецк</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/e1e5610924970640c402f09c1d72b4ca-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Football 1 (Ukraine)</channel>
+        <language>Ukrainian</language>
+    </event>
+        <event>
+        <name>Лион - Шахтер Донецк</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/0716bbaafa1349970300801dc7c8f4a4-live.html</urls>
+                <sport>Футбол</sport>
         <channel>BT Sport 3 (UK)</channel>
         <language>English</language>
     </event>
         <event>
-        <name>Монреаль - Калгари</name>
-        <league>КФЛ</league>
-        <startDateTime>1532221200</startDateTime>
-        <urls>https://sport7.pw/7f8b6551d183b593e4a1b9b938b4bf8b-live.html</urls>
-                <sport>Американский футбол</sport>
-        <channel>TSN 1 (Canada)</channel>
-        <language>English</language>
+        <name>Лион - Шахтер Донецк</name>
+        <league>Лига чемпионов</league>
+        <startDateTime>1538506800</startDateTime>
+        <urls>https://sport7.pw/496bc585c4e5e31104d4fda10a295d2b-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Arena Sport 2 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Ривер Плейт - Индепендьенте</name>
+        <league>Кубок Либертадорес</league>
+        <startDateTime>1538519400</startDateTime>
+        <urls>https://sport7.pw/7a068f0aa9f2404e0a32c91c22232a65-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Sport1 (Portugal)</channel>
+        <language>Portuguese</language>
+    </event>
+        <event>
+        <name>Ривер Плейт - Индепендьенте</name>
+        <league>Кубок Либертадорес</league>
+        <startDateTime>1538519400</startDateTime>
+        <urls>https://sport7.pw/bf89bc1c0625aef81074bd0b1f12cfdc-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Arena Sport 2 (Serbia)</channel>
+        <language>Serbian</language>
+    </event>
+        <event>
+        <name>Гремио - Атлетико Тукуман</name>
+        <league>Кубок Либертадорес</league>
+        <startDateTime>1538527500</startDateTime>
+        <urls>https://sport7.pw/440bd76baae653b74dedb96ce1d6d515-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Sport1 (Portugal)</channel>
+        <language>Portuguese</language>
+    </event>
+        <event>
+        <name>Гремио - Атлетико Тукуман</name>
+        <league>Кубок Либертадорес</league>
+        <startDateTime>1538527500</startDateTime>
+        <urls>https://sport7.pw/3230cf18450d3124f1794befe321e792-live.html</urls>
+                <sport>Футбол</sport>
+        <channel>Arena Sport 2 (Serbia)</channel>
+        <language>Serbian</language>
     </event>
     </response>

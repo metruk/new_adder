@@ -126,7 +126,8 @@ public class Broadcast {
 			players.append("[button color=\"green\" size=\"medium\" link=\"");
 			players.append(targetSite);
 			players.append(publishedPlayerLinks.get(i));
-			players.append("/\" target=\"blank\" ]");
+			//players.append("/\" target=\"blank\" ]");
+			players.append("/\"  ]");
 			players.append("Канал ");
 			players.append(i+1);
 			players.append("[/button]");	
