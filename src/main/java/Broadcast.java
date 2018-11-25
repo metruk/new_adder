@@ -14,7 +14,7 @@ public class Broadcast {
     private String postContentTarget;
     private String postContentSource; 
     
-    String  targetSite = "http://www.watchhd.online/";
+    String  targetSite = "http://www.matchttv.ru/";
 
     public Broadcast(String broadcastName, String broadCastSport, String broadcastLeague, String broadcastDate,
 			String broadcastUrls, String broadCastChannel, String broadCastLanguage) {

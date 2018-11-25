@@ -19,7 +19,7 @@ public class Main {
 		
 		Parser parser = new Parser();
 		//writing broadcasts to general file
-		String allBroadcastsPage = parser.sendGet("https://sport7.site/feed?language=ru");
+		String allBroadcastsPage = parser.sendGet("https://vip7stream.com/feed?language=ru");
 		file.createFile("allBroadcasts.xml",allBroadcastsPage);
 	
 		//parsing general file and getting only needed translation
@@ -28,7 +28,7 @@ public class Main {
 		
 		ArrayList<String> dbAccess = new ArrayList<String>();
 		
-		String siteName = "watchhd.online";
+		String siteName = "matchtvlive.club";
 		dbAccess = file.readFileByLines("databases/"+siteName);
 		MysqlDAO mysql= new MysqlDAO(dbAccess.get(0),dbAccess.get(1),dbAccess.get(2),dbAccess.get(3));
 		
